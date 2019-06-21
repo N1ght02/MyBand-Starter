@@ -1,6 +1,6 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+http://flintvladimirnaafs.nl/mybandt1/public/ is een website van (Flint Naafs) waar gebruikers kunnen (informatie tyler1) bedoeld voor (iedereeen)
+De website is enigszins te vergelijken met (wikipedia) of (loltyler1.com) maar toch anders omdat (het over de beste streamer ooit)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
