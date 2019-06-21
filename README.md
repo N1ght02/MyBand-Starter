@@ -1,4 +1,4 @@
-## Titel van jouw website
+## Tyler1 (alles staat in mybandt1)
 http://flintvladimirnaafs.nl/mybandt1/public/ is een website van (Flint Naafs) waar gebruikers kunnen (informatie tyler1) bedoeld voor (iedereeen)
 De website is enigszins te vergelijken met (wikipedia) of (loltyler1.com) maar toch anders omdat (het over de beste streamer ooit)
 
