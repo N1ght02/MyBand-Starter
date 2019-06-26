@@ -1,31 +1,24 @@
 # User stories
 
-Gebruik bijvoorbeeld het format van deze [voorbeeld spreadsheet]
-Dit mag hier ook als los spreadsheet bestand worden neergezet.
 
-[voorbeeld spreadsheet]: <https://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog>
-
-**Bijvoorbeeld**
-
-###### Anonieme gebruikers
-
+###### Gebruikers
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
+| G0001 | Gebruiker | Content lezen | te weten kom over de artist en website | | Must have | TODO |
+| G0002 | Gebruiker | Door gestuurd moeten kunnen worden naar officiële website van artiest | zodat ze ook naar de echt website kunnen. | | Must have | TODO |
+| G0003 | Gebruiker | Naar socialmedia kunnen gaan via de site | ze naar de socialmedia kunnen gaan van de artiest | | Should have | TODO |
+| G0004 | Gebruiker | Video's van artiest kijken | om muziek te luisteren van artiest | | Should have | TODO |
 
-
-###### Geregistreerde gebruikers
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
 
 
 ##### Admins
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
-| B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
+| B0001 | Admin | bij de content kunnen | content kan bewerken / verwijderen | | Must have | TODO |
+| B0002 | Admin | de website kunnen bewerken | eventuële changes kan maken voor de website | | Must have | TODO |
+| B0003 | Admin | Mensen IP-bannen van de website | mensen die zich misdragen op de site gebanned kunnen worden. | | Could have | TODO |
+
+
 
 
 
